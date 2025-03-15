@@ -1,0 +1,16 @@
+# Core Python Libraries
+hashlib
+os
+time
+sys
+
+# Email Related Libraries
+smtplib
+email
+
+# Network Related Libraries
+urllib
+
+# Note: Most of these libraries are part of Python's standard library
+# and don't need to be installed separately. This file is included
+# for documentation purposes and compatibility with future extensions.
